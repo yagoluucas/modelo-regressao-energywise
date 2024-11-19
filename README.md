@@ -45,6 +45,10 @@ Para atender ao objetivo do projeto, desenvolvemos um modelo de regressão basea
 
 ---
 
+## Apresentação do projeto e notebook jupyter
+
+https://youtu.be/EASiJGny4to?si=3uaECgVPtaxObgPZ
+
 ## **Como Contribuir**
 
 1. Faça um fork do repositório.
